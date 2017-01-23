@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+McdonaldViewTool::Renderer.copyright 'Josh McDonald', 'All rights reserved'
+```
 
 ## Development
 
